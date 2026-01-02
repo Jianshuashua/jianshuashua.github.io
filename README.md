@@ -50,3 +50,11 @@ Quick Brush - Installation Guide (V1.0)
 
 ### [🚀 Get the Latest Release (v1.0.0)](https://github.com/Jianshuashua/PCG/releases/download/v1.0.0/JianShuaShua.rar)
 
+---
+### Legal Information
+* [Terms and Conditions](https://jianshuashua.github.io/PCG/TERMS)
+* [Privacy Policy](https://jianshuashua.github.io/PCG/PRIVACY)
+* [Refund Policy](https://jianshuashua.github.io/PCG/TERMS) (Included in Terms)
+* [Pricing](https://jianshuashua.github.io/PCG/PRICING)
+
+
